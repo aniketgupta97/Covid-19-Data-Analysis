@@ -1,1 +1,2 @@
 # Covid-19-Data-Analysis
+This project aims to create a dashboard using Power BI to visualize the daily rise of COVID-19 cases worldwide. The dashboard displays a comparison between the current day and the previous day's cases, showing the growth rate percentage increase in cases on a world map. It provides detailed information as you hover over each country, including total cases on the present day versus the previous day, total active cases, and total deaths.
